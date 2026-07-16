@@ -1,6 +1,6 @@
-⚡ ATC Loss Analyzer
+⚡Kesco AT&C Loss Analyzer
 
-Automated AT&C (Aggregate Technical & Commercial) loss analysis platform for electricity distribution data, built during the internship with **KESCO (Kanpur Electricity Supply Company Ltd.)**. It turns raw consumer and energy-input exports into structured operational insight — billing efficiency, collection efficiency, AT&C loss, theft suspects, division/feeder breakdowns, and downloadable operations reports — all generated automatically from whatever files a user uploads.
+Automated AT&C (Aggregate Technical & Commercial) loss analysis platform for electricity distribution data, developed during my internship with **KESCO (Kanpur Electricity Supply Company Ltd.)**. It turns raw consumer and energy-input exports into structured operational insight — billing efficiency, collection efficiency, AT&C loss, theft suspects, division/feeder breakdowns, and downloadable operations reports — all generated automatically from whatever files a user uploads.
 
 🔗 **Live demo:** [kesco-atc-loss-analyzer.vercel.app](https://kesco-atc-loss-analyzer.vercel.app)
 ⚙️ **Backend API:** [abhay9984-kesco-atc-api.hf.space](https://abhay9984-kesco-atc-api.hf.space)
